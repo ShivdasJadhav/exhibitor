@@ -1,0 +1,10 @@
+# bug {register > yupresolver fields >(firstname & lastname)}
+
+# bug {profile > user_icon >(delete and reset on cancel)}
+
+# bug {home > wellcome popup >(custome_toast)}
+
+# update the figma as per new design (update profile)
+
+#reources
+#mailer used https://ethereal.email(backend)
