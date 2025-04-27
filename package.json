@@ -2,6 +2,8 @@
   "name": "exhibitors",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Shivdas Jadhav",
+  "description": "Exhibitor is a digital platform that allows users to publish and share their artwork with a story, while engaging with a social feed. It fosters a creative community by allowing interaction through likes and comments.",
   "type": "commonjs",
   "scripts": {
     "dev": "concurrently \"nodemon index.js\" \"npm start --prefix client\"",
@@ -9,7 +11,6 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shivdas Jadhav",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -34,7 +35,6 @@
     "url": "https://github.com/ShivdasJadhav/gallary_server/issues"
   },
   "homepage": "https://github.com/ShivdasJadhav/gallary_server#readme",
-  "description": "",
   "engines": {
     "node": "v16.16.0"
   },
