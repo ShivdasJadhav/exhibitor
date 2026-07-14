@@ -340,33 +340,6 @@ REACT_APP_API_URL=http://localhost:5000/api
 REACT_APP_ENV=development
 ```
 
-## 🖼️ Screenshots
-
-### 1. Landing Page
-![Landing Page](./screenshots/landing_1.png)
-![Top Arts](./screenshots/top_arts.png)
-![Community](./screenshots/community.png)
-![Reviews](./screenshots/reviews.png)
-![Footer](./screenshots/footer.png)
-
-### 2. Home Page
-![Home](./screenshots/home.png)
-
-### 3. Artwork Submission
-![Submission Page](./screenshots/request_Art.png)
-
-### 4. Artwork Detail View
-![Artwork Detail 1](./screenshots/details_1.png)
-![Artwork Detail 2](./screenshots/details_2.png)
-
-### 5. Artwork Control
-![Artwork Control](./screenshots/art_control_1.png)
-
-### 6. Admin Panel
-![Admin Panel 1](./screenshots/admin_1.png)
-![Admin Panel 2](./screenshots/admin_2.png)
-![Admin Panel 3](./screenshots/admin_3.png)
-
 ## 📖 Usage
 
 ### For Artists
